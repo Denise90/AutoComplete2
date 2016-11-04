@@ -6,6 +6,5 @@ The user should then be able to enter a prefix string and the program should ret
 All matching phrases should be displayed and the search should be case insensitive.
 
 
-This is a re-upload of the original assignment as it produced unknown errors
-The bruteforce attempt is complete in this project, with working returning term weights, best matches, all matches.
-The quick attempt is not complete as I managed my time poorly 
+This is a re-upload of the original assignment as it produced unknown errors. The bruteforce attempt is complete in this project, with working returning term weights, best matches, all matches.
+The quick attempt is not complete as I managed my time poorly.
